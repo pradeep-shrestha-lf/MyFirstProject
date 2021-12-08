@@ -1,1 +1,1 @@
-console.log("This is Calculator");
+console.log("This is Calculator hero");
